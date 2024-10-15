@@ -1,0 +1,9 @@
+:root {
+    --red-color: #EB3F57;
+    --gray-color: #454654;
+    --white-color: #F5F5FA ;
+    --graywhite-color: #b1b1b1;
+    --black-color: #000000 ;
+    --gradientone-color: linear-gradient(90deg, #E83F57, #8C3945);
+    --gradienttwo-color: linear-gradient(90deg, #DE3C5D, #110943);
+}

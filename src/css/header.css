@@ -1,0 +1,28 @@
+@import './variabels.css';
+
+.icons {
+    color: var(--graywhite-color);
+    font-size: 16px;
+}
+
+.contactData{
+display: flex;
+    justify-content: space-around;
+}
+
+.contactData div{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.contactData div p{
+   padding: 10px;
+}
+.social-media-icons {
+    padding: 10px;
+    display: flex;
+    gap: 15px;
+}
+.icons:hover {
+    color: var(--red-color);
+}

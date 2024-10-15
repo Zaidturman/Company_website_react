@@ -1,0 +1,27 @@
+@import './variabels.css';
+img{
+    width: 150px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+        flex-direction: row;
+            /* Align items in a row */
+}
+nav div  {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+nav div ul{
+    display: flex;
+        justify-content: space-around;
+gap: 15px;
+    list-style: none;
+    /* Remove bullet points */
+    padding: 0;
+    /* Remove default padding */
+    margin: 0;
+    /* Remove default margin */
+}
